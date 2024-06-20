@@ -1,0 +1,35 @@
+XYZ Company wants a software for maintaing their employee details.
+HR department wants the following functionalities
+1.Add new employee details when ever a employee is onboarded
+2.View list of employees
+3.Update employee details
+4.Remove employee details when employee leaves the company
+5.Employee should be able to apply leave
+6. The manager should be able to approve or reject the leave
+7. The manager should be able to provide ratings to employees
+
+
+There are two types of employees 
+1.Permanent employee
+2.Contract employee
+
+Employee details to be stored are as follows
+1.employee id
+2.name
+3.designation
+4.salary
+
+Array
+Employee object 
+ArrayList
+
+HashMap--key and value
+
+Employee
+PermanentEmployee
+ContractEmployee
+
+EmployeeService
+
+EmployeeRepository--store employee objects into a collection.
+
